@@ -25,6 +25,9 @@ body{
     display: flex;
     
 }
+.link-estados {
+    text-decoration: none;
+}
 .cabecalho a{
     text-decoration: none;
     color: green;
